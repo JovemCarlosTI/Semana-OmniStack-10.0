@@ -1,0 +1,24 @@
+//Métodos HTTP: get, post, put, delete
+
+//Tipos de parâmetros:
+
+// Query Params: req.query (Filtros, ordenação, paginação,...)
+//Route Params: request.params (Identificar um recurso na alteração ou remoção)
+//Body: request.body (Dados para criação ou alteração de um registro)
+
+//MongoDB (não-relacional)
+
+// JSX (JavaScript + HTML)
+
+React:
+Componente + Estado + Propriedade
+
+Componente:
+Bloco isolado de HTML, CSS e JS, o qual não interfere no restante da aplicação
+
+Propriedade:
+Informações que um componente PAI passa para o componente FILHO
+
+Estado:
+Informações mantidas pelo componente (Lembrar: imutabilidade)
+
