@@ -1,6 +1,6 @@
 import socketio from 'socket.io-client';
 
-const socket = socketio('http://192.168.100.59:3333', {
+const socket = socketio('Endereço IP com a porta do Local Host do Backend', {
     autoConnect: false,
 });
 
